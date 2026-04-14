@@ -20,7 +20,8 @@ The system operates through a collaborative network of 6 heterogeneous AI Agents
 2. 📈 **Scenario Simulator**: Executes multi-scenario modeling and game theory simulations to predict strategic outcomes.
 3. 🛡️ **Risk Auditor**: Acts as the critic for logical vulnerability, compliance auditing, and adversarial stress testing.
 4. 💰 **Resource Manager**: Optimizes Return on Investment (ROI) and resource allocation under given operational constraints.
-5. 🧠 **Decision Controller**: Orchestrates global tasks, verifies consistency protocols, and synthesizes the final strategic blueprint.
+5. ⚙️ **Implementation Overseer**: Translates high-level strategies into actionable roadmaps and monitors execution feasibility.
+6. 🧠 **Decision Controller**: Orchestrates global tasks, verifies consistency protocols, and synthesizes the final strategic blueprint.
 
 ## ⚙️ Core Technical Breakthroughs
 - **Dynamic Semantic Alignment:** Standardizes cross-domain terminology (e.g., bridging financial and marketing indicators) among agents via the `SemanticAligner` module.

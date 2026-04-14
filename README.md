@@ -9,7 +9,7 @@
 > ⚠️ **Note:** This is a prototype system that is currently under continuous development and refinement. If you notice any shortcomings, have suggestions for improvement, or wish to provide feedback, please feel free to contact me at: [djm@mail.hfut.edu.cn](mailto:djm@mail.hfut.edu.cn).
 
 ## 📖 Introduction
-This repository contains the prototype code for a **Agent Collaborative System** specifically designed for enterprise strategic decision-making. By leveraging advanced framework designs inspired by Google ADK, AutoGen, and LangChain, this prototype validates the feasibility of complex task orchestration, dynamic semantic alignment, and task consistency protocols in multi-agent environments. 
+This repository contains the prototype code for a **Multi-AI Agent Collaborative System** specifically designed for enterprise strategic decision-making. By leveraging advanced framework designs inspired by Google ADK, AutoGen, and LangChain, this prototype validates the feasibility of complex task orchestration, dynamic semantic alignment, and task consistency protocols in multi-agent environments. 
 
 It serves as the preliminary engineering foundation and technical proof-of-concept for related academic research in AI-driven strategic management.
 
